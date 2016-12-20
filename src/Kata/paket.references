@@ -1,0 +1,5 @@
+FSharp.Core
+
+FsCheck
+FsCheck.Xunit
+Unquote
